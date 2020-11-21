@@ -1,0 +1,136 @@
+body {
+    font-family: 'Staatliches', cursive;
+}
+
+.bg-white {
+    background-color: white;
+    width: 100%;
+    position: fixed;
+    z-index: 9;
+        box-shadow: -1px 2px 8px 1px;
+    
+}
+.logotipe {
+    display: flex;
+    width: 1100px;
+    justify-content: space-between;
+    margin: auto;
+    
+}
+.logo-info {
+    display: flex;
+    align-items: center; 
+    margin: auto;
+}
+.logo-img {
+    margin-right: 30px;
+    margin-left: 10px;
+    height: 100px;
+}
+.logo-text {
+    font-weight: 500;
+    font-size: 35px;
+    font-family: 'Staatliches', cursive;
+}
+.header {
+    padding-bottom: 110px;
+
+}
+
+
+
+
+
+
+.slide {
+ background-color: #bd2130;
+ box-sizing: border-box;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    
+
+  
+}
+.carousel-inner {
+    height: 600px;
+    margin: auto;
+    border: solid 1px;
+    border-color: #fff;
+
+    
+}
+
+.cont {
+    width: 1140px;
+    margin: auto;
+    
+}
+
+
+
+
+
+
+.big-text {
+    text-align: center;
+    font-size: 60px;
+    border: solid;
+    width: 200px;
+    margin: auto;
+    
+}
+.text-centr {
+padding-top: 50px;
+}
+
+
+
+
+
+.game-name {
+    text-align: center;
+    color: black;
+    margin-bottom: 40px;
+    font-size: 30px
+}
+.img-game {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 350px;
+    height: 444px;
+}
+.wrap {
+    background-color: #fff;
+    padding-top: 60px;
+}
+
+.img-game:hover {
+    border: solid 10px;
+    border-color: #bd2130;
+}
+.person__game {
+
+height: 350px;
+    background-color: #bd2130;
+    display: flex;
+    align-items: center;
+    width: 100%;
+   
+    
+    
+
+}
+.person_img {
+    height: 560px;
+    position: relative;
+    top: -105px;
+}
+.red-section-text {
+    font-size: 50px;
+    color: white;
+vertical-align: bottom
+
+}
+.red {
+    
+}
